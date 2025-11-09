@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1"
+	baseProfile="full"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:ev="http://www.w3.org/2001/xml-events"
+	width="960" height="1120">
+
+/*Background*/
+<rect x="0" y="0" width="960" height="1120" fill="#e6ffed"/>
+
+/*Frame*/
+<rect x="140" y="100" width="690" height="50" fill="#773903"/> 
+<rect x="140" y="100" width="50" height="920" fill="#773903"/> 
+<rect x="780" y="100" width="50" height="800" fill="#773903"/> 
+<rect x="140" y="970" width="570" height="50" fill="#773903"/> 
+<circle cx="705" cy="895" r="100" stroke="#773903" stroke-width="50" fill="#ffffff"/>
+<rect x="700" y="150" width="80" height="750" fill="#ffffff"/> 
+<rect x="190" y="890" width="520" height="80" fill="#ffffff"/> 
+<rect x="190" y="150" width="520" height="750" fill="#ffffff"/> 
+
+/*Bowl*/
+<ellipse cx="310" cy="255" rx="95" ry="45" fill="#773903"/>
+<rect x="210" y="210" width="200" height="50" fill="#ffffff"/> 
+
+/*Snake*/
+<rect x="452.5" y="615" width="270" height="275" rx="50" ry="50" fill="#ffffff" stroke="#773903" stroke-width="55"/>
+<rect x="480" y="585" width="50" height="80" fill="#ffffff"/> 
+<polygon points="480,570 750,570 750,608 480,626" fill="#ffffff"/> 
+<polygon points="480,633 675,642.5 675,663 480,663" fill="#ffffff"/> 
+<ellipse cx="532" cy="629" rx="20" ry="6.5" fill="#773903"/>
+<path d="M515,628 C630,620 742,602 725,616" stroke="#773903" stroke-width="5"  fill="#773903"/>
+<rect x="425" y="250" width="55" height="500" fill="#773903"/> 
+<path d="M278,227 C280,150 510,125 477,258" stroke="#773903" stroke-width="5"  fill="#773903"/>
+<path d="M278,225 C280,250 425,210 428,254" stroke="#773903" stroke-width="5"  fill="#773903"/>
+<path d="M298,239 C300,244 427,222 422.5,257" stroke="#ffffff" stroke-width="5"  fill="#ffffff"/>
+<ellipse cx="371" cy="204" rx="22" ry="15" fill="#ffffff"/>
+
+/*Book*/
+<path d="M507,670 C507,660 585,680 585,700" stroke="#773903" stroke-width="8"  fill="#773903"/>
+<path d="M585,700 C585,680 662,660 665,670" stroke="#773903" stroke-width="8"  fill="#773903"/>
+<path d="M507,810 C507,800 585,820 585,840" stroke="#773903" stroke-width="8"  fill="#ffffff"/>
+<path d="M585,840 C585,820 662,800 665,810" stroke="#773903" stroke-width="8"  fill="#ffffff"/>
+<rect x="503" y="669" width="8" height="143" fill="#773903"/>
+<rect x="581" y="700" width="8" height="135" fill="#773903"/>
+<rect x="661" y="669" width="8" height="143" fill="#773903"/>
+<polygon points="507,668 585,697 665,668 665,805 585,830 507,805" fill="#773903"/>
+</svg>
